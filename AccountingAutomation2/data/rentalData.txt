@@ -1,0 +1,78 @@
+80's Dream|1940 Roanoke Street, Colorado Springs, CO 80906, United States|0.15
+Amstelhaus|1305 Amstel Drive, Colorado Springs, CO 80907, United States|0.18
+Antler Lodge|6724 Prince Drive, Colorado Springs, CO 80918, United States|0.18
+Art Gallery|9610 Daywood Lane, Colorado Springs, CO 80920, United States|0.20
+As Good As Gold|1116 Bonfoy Avenue, Colorado Springs, CO 80909, United States|0.18
+Beary Welcome|412 West Saint Vrain Street, Colorado Springs, CO 80905, United States|0.15
+Beechwood|3370 Beechwood Court, Colorado Springs, CO 80918, United States|0.18
+Benny's Cottage|418 Cheyenne Boulevard, Colorado Springs, CO 80905, United States|0.18
+Beth's Boutique|1822 West Colorado Avenue, Colorado Springs, CO 80904, United States|0.15
+Beth's Flat|1824 West Colorado Avenue, Colorado Springs, CO 80904, United States|0.15
+Big Classic|9030 Rutledge Drive, Colorado Springs, CO 80920, United States|0.15
+Blast From The Past|311 North Walnut Street, Colorado Springs, CO 80905, United States|0.15
+Bridle Escape|4665 Bridle Pass Drive, Colorado Springs, CO 80923, United States|0.08
+Brookside|44 West Brookside Street, Colorado Springs, CO 80905, United States|0.18
+Castle Corner|1902 Wood Avenue, Colorado Springs, CO 80907, United States|0.18
+Cedarwood Studio|10652 Calle Del Fuente, Colorado Springs, CO 80926, United States|0.18
+Cheyenne Cañon|2018 Oak Way, Colorado Springs, CO 80906, United States|0.18
+Cheyenne CaÃ±on|2018 Oak Way, Colorado Springs, CO 80906, United States|0.18
+Cheyenne Jacks|1816 Fenmoor Place, Colorado Springs, CO 80905, United States|0.18
+Cheyenne Mountain|3225 Gilcrest Terrace, Colorado Springs, CO 80906, United States|0.18
+Corona Rosa Cottage|612 North Corona Street, Colorado Springs, CO 80903, United States|0.18
+Craft Perfection|2801 North Cascade Avenue, Colorado Springs, CO 80907, United States|0.18
+Ellston Place|3830 Ellston Place, Colorado Springs, CO 80907, United States|0.18
+Entertainer|1918 Brookdale Drive, Colorado Springs, CO 80918, United States|0.18
+Garden of the Gods|3366 West Bijou Street, Colorado Springs, CO 80904, United States|0.15
+Golden Bear|1948 Lower Gold Camp Road, Colorado Springs, CO 80905, United States|0.15
+Heart Of Colorado|2206 West Colorado Avenue, Colorado Springs, CO 80904, United States|0.15
+Highway to Fun|2120 Cooper Avenue #A, Colorado Springs, CO 80907, United States|0.18
+Holy Tub|3616 Holyoke Street, Colorado Springs, CO 80904, United States|0.10
+Home Sweet Home|2404 Farragut Avenue, Colorado Springs, CO 80907, United States|0.18
+Hoste Bee|1021 North Wahsatch Avenue, Colorado Springs, CO 80903, United States|0.11
+Hoste Cottage|North Wahsatch Avenue, Colorado Springs, CO 80903, United States|0.08
+Hoste Mini Home|1021 North Wahsatch Avenue, Colorado Springs, CO 80903, United States|0.10
+Hot Tub Time Machine|4647 Bridle Pass Drive, Colorado Springs, CO 80923, United States|0.08
+Incline Escape|11 Narrows Road Unit# A, Manitou Springs, CO 80829, United States|0.10
+Italian Bistro|1330 West Pikes Peak Avenue, Colorado Springs, CO 80904, United States|0.15
+Lower Custer|225 Custer Avenue, Colorado Springs, CO 80903, United States|0.14
+Lower Rocks|1328 Westend Avenue, Colorado Springs, CO 80904, United States|0.15
+Manitou Retreat|11 Narrows Road, Manitou Springs, CO 80829, United States|0.10
+Mariposa Mountain|9393 Mariposa Trail, Cascade-Chipita Park, CO 80809, United States|0.18
+Mountain Gym|440 North Spruce Street, Colorado Springs, CO 80905, United States|0.15
+Mt Olympus|12 Ridge Road, Colorado Springs, CO 80904, United States|0.18
+Nemo's Cafe|14 Bonfoy Avenue, Colorado Springs, CO 80909, United States|0.22
+OCC Charm|1719 West Colorado Avenue, Colorado Springs, CO 80904, United States|0.22
+OCC Retreat|2429 West Vermijo Avenue A, Colorado Springs, CO 80904, United States|0.18
+OCC True Blue|2408 West Monument Street, Colorado Springs, CO 80904, United States|0.18
+Olympic Guest House|315 North Foote Avenue, Colorado Springs, CO 80909, United States|0.18
+Original Tiny House|323 North Foote Avenue, Colorado Springs, CO 80909, United States|0.18
+Perfect Pink|638 East Willamette Avenue, Colorado Springs, CO 80903, United States|0.15
+Pikes Peak Adventure|329 South El Paso Street, Colorado Springs, CO 80903, United States|0.15
+Pikes Peak Balcony|805 South Weber Street, Colorado Springs, CO 80903, United States|0.22
+Pleasantville|2319 West Platte Avenue, Colorado Springs, CO 80904, United States|0.18
+Poe Manor|14 Woodmen Lane, Colorado Springs, CO 80919, United States|0.15
+Primetime|1649 South Tejon Street, Colorado Springs, CO 80905, United States|0.18
+Quiet Colossus|7375 Oakshire Way, Fountain, CO 80817, United States|0.18
+Range Ranch|7289 Range Ranch Drive, Colorado Springs, CO 80923, United States|0.18
+Red Rocks|1326 Westend Avenue, Colorado Springs, CO 80904, United States|0.15
+Redlow|1332 Westend Avenue, Colorado Springs, CO 80904, United States|0.18
+Redtop|1330 Westend Avenue, Colorado Springs, CO 80904, United States|0.18
+Roscoe's Coffee|425 West Bijou Street, Colorado Springs, CO 80905, United States|0.15
+Rustic Cabin|416 Cheyenne Boulevard, Colorado Springs, CO 80905, United States|0.15
+Skyview|1124 North Hancock Avenue, Colorado Springs, CO 80903, United States|0.15
+Spruced Up|609 North Spruce Street, Colorado Springs, CO 80905, United States|0.18
+Story Book|214 North 20th Street, Colorado Springs, CO 80904, United States|0.15
+Sunny Side Up|1412 North El Paso Street, Colorado Springs, CO 80907, United States|0.15
+That 70's Show|1940 Roanoke Street, Colorado Springs, CO 80906, United States|0.15
+The Coffee Loft|432 West Bijou Street, Colorado Springs, CO 80905, United States|0.18
+Tree Custer|227 Custer Avenue, Colorado Springs, CO 80903, United States|0.14
+Vicky's Latte|1220 North Institute Street, Colorado Springs, CO 80903, United States|0.15
+Victorian Mansion|1823 North Nevada Avenue, Colorado Springs, CO 80907, United States|0.15
+Weber Unit A|727 North Weber Street #B, Colorado Springs, CO 80903, United States|0.15
+Weber Unit B|727 North Weber Street #B, Colorado Springs, CO 80903, United States|0.15
+Westside Townhome|518 Superior Street, Colorado Springs, CO 80904, United States|0.18
+Whimsical Garden|1431 North Franklin Street, Colorado Springs, CO 80907, United States|0.15
+Wine Cellar|130 North Meade Avenue, Colorado Springs, CO 80909, United States|0.18
+Woodland Retreat|7415 West Highway 24, Cascade-Chipita Park, CO 80809, United States|0.15
+Wynkoop|2232 Wynkoop Drive, Colorado Springs, CO 80909, United States|0.18
+Yampa|2724 East Yampa Street, Colorado Springs, CO 80909, United States|0.12
