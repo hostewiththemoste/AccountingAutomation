@@ -17,3 +17,4 @@ for owner in allList.ownerList:
 		print(' ' + str(rental.rate))
 	print('\n')
 
+	print("hello world")
